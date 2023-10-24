@@ -1,1 +1,1 @@
-Download the file and unload in Chrome
+Download the files and setup in Chrome Extention
